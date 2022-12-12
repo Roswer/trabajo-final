@@ -5,7 +5,7 @@ aqui se le mostraran fotos del error que me aparece, intente todo y nada de solu
 
 ![captura_de_pantalla](msg-1522045250-150.jpg)
 ![captura_de_pantalla](msg-1522045250-152.jpg) 
-![captura_de_pantalla](Capture.png)
+![captura_de_pantalla](Capture.PNG)
 
 proyecto-final-7ce8e.web.app
 
